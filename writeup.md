@@ -94,7 +94,7 @@ Also rather than shifting per block, I made stronger strides, which did not lead
 Then in order to remove false positives and out number false failed detection, I used a heat_map approach. and merged the heapmap using `scikit's label`
 
 Here you can see the heatmap for same image. The threshold is `5`
-![alt text][image4]
+![alt text][image5]
 
 ---
 
